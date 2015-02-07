@@ -1,0 +1,22 @@
+{
+  "name": "queue-js",
+  "version": "0.0.0",
+  "description": "Queue in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dariubs/queue-js.git"
+  },
+  "keywords": [
+    "datastructure"
+  ],
+  "author": "Dariush Abbasi <poshtehani@gmail.com> (http://dariubs.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariubs/queue-js/issues"
+  },
+  "homepage": "https://github.com/dariubs/queue-js"
+}
