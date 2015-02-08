@@ -1,6 +1,6 @@
 {
   "name": "queue-js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Queue in javascript",
   "main": "index.js",
   "scripts": {
